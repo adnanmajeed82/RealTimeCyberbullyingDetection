@@ -17,4 +17,4 @@ Advance Data Science Projects Developed by Adnan Majeed (Computer Learning Cente
 
 
 
-Author: ![mypic](https://github.com/user-attachments/assets/73a1ad97-515f-4d6b-a2a4-cb7425d6e335)
+Author:  Adnan Majeed 
